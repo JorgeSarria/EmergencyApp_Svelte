@@ -22,6 +22,3 @@ Campus Emergency App es una aplicación web interactiva desarrollada con Svelte 
 
 Para ejecutar este proyecto localmente, sigue estos pasos:
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/campus-emergency-app.git
