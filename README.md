@@ -63,12 +63,31 @@ Comando para crear una carpeta con nombre "HelpU" la plantilla Svelte:
 
 
 **3. ubicarse en la carpeta creada en cmd**
-- cd my-svelte-app
+- cd "ruta hacia la carpeta"
   
-<img src="https://github.com/user-attachments/assets/c2215d82-3021-4f3d-8f00-9d96a1ea3192" alt="Imagen de ejemplo" width="300"/>
+<img src="https://github.com/user-attachments/assets/cac4e7b8-cb28-4faf-bfdc-56714c9b5302" alt="Imagen de ejemplo" width="600"/>
 
 
+**4. Colocar código de prueba en Visual Studio Code**
 
+<img src="https://github.com/user-attachments/assets/4b4e7c5f-c417-480b-acbe-b61402363457" alt="Imagen de ejemplo" width="500"/>
+
+Se tiene que colocar el código en una carpeta en especifico, en nuestro sería tenemos que buscar el archivo "app.svelte" dentro de las siguientes carpetas:
+
+HelpU -> src -> app.svelte
+
+<img src="https://github.com/user-attachments/assets/2e3c7841-c4c6-474f-88f8-d9b401965b5b" alt="Imagen de ejemplo" width="500"/>
+
+
+**5. Ejecutar el servidor de desarrollo**
+
+- npm run dev
+
+<img src="https://github.com/user-attachments/assets/7a67d7a7-ac5a-4735-b83b-ff85353e56b9" alt="Imagen de ejemplo" width="400"/>
+
+Al ejecutar debe descargar vite y después debe aparecer un enlace para navegador.
+
+<img src="https://github.com/user-attachments/assets/3920a6e5-53ab-4de0-8d51-4e56f231182e" alt="Imagen de ejemplo" width="400"/>
 
 
 
